@@ -1,0 +1,9 @@
+E:\VS program\服务器\bin\Debug\服务器.exe.config
+E:\VS program\服务器\bin\Debug\服务器.exe
+E:\VS program\服务器\bin\Debug\服务器.pdb
+E:\VS program\服务器\obj\Debug\服务器.csprojAssemblyReference.cache
+E:\VS program\服务器\obj\Debug\服务器.Form1.resources
+E:\VS program\服务器\obj\Debug\服务器.Properties.Resources.resources
+E:\VS program\服务器\obj\Debug\服务器.csproj.GenerateResource.cache
+E:\VS program\服务器\obj\Debug\服务器.exe
+E:\VS program\服务器\obj\Debug\服务器.pdb
